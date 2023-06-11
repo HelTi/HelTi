@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的github!&center=true&size=27"> </a> </h1>
-- 🌱 I’m currently learning react,nestjs,nextjs
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=521&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;Building+a+better+world+with+love+and+peace.)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelTi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
