@@ -55,8 +55,8 @@ Full-stack developer who loves turning ideas into useful products with **TypeScr
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelTi&theme=default" alt="HelTi's GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelTi&theme=default" alt="HelTi's top languages by repository" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/cards/stats?username=HelTi&theme=default" alt="HelTi's GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/cards/repos-per-language?username=HelTi&theme=default" alt="HelTi's top languages by repository" />
 
 </div>
 
