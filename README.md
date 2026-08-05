@@ -53,10 +53,11 @@ Full-stack developer who loves turning ideas into useful products with **TypeScr
 
 ## 📊 GitHub Stats / GitHub 数据
 
-<div align="center">
+<div style="display:flex;justify-content: start;height:170px; gap:5px;">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/cards/stats?username=HelTi&theme=default" alt="HelTi's GitHub stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/cards/repos-per-language?username=HelTi&theme=default" alt="HelTi's top languages by repository" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Helti&theme=default)](https://github-stats-extended.vercel.app/api?username=Helti&theme=default)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Helti&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=Helti&langs_count=4)
 
 </div>
 
