@@ -51,16 +51,6 @@ Full-stack developer who loves turning ideas into useful products with **TypeScr
 
 <div align="center"><sub>按 Star 数展示我最受欢迎的三个原创项目 · My three most-starred original projects</sub></div>
 
-## 📊 GitHub Stats / GitHub 数据
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Helti&theme=default)](https://github-stats-extended.vercel.app/api?username=Helti&theme=default)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Helti&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=Helti&langs_count=4)
-
-</div>
-
 ---
 
 <div align="center">
